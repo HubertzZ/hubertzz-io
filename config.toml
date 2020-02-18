@@ -1,0 +1,4 @@
+baseURL = "https://hubertzz.github.io/"
+languageCode = "zh-cn"
+title = "Hu>>Blog"
+theme = "paper"
